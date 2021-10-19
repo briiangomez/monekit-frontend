@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Monekit.FrontEnd", "Monekit.FrontEnd\Client\Monekit.FrontEnd.csproj", "{6F66F6BE-B78D-49ED-9426-D6E8B4096EF8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Monekit.FrontEnd.Server", "Monekit.FrontEnd\Server\Monekit.FrontEnd.Server.csproj", "{4CC4FD3A-DD6F-45FE-B45D-D4AF15353A62}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Monekit.FrontEnd.Shared", "Monekit.FrontEnd\Shared\Monekit.FrontEnd.Shared.csproj", "{B1F50738-1835-4204-87F8-273CD59FCB69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F66F6BE-B78D-49ED-9426-D6E8B4096EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F66F6BE-B78D-49ED-9426-D6E8B4096EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F66F6BE-B78D-49ED-9426-D6E8B4096EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F66F6BE-B78D-49ED-9426-D6E8B4096EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CC4FD3A-DD6F-45FE-B45D-D4AF15353A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CC4FD3A-DD6F-45FE-B45D-D4AF15353A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CC4FD3A-DD6F-45FE-B45D-D4AF15353A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CC4FD3A-DD6F-45FE-B45D-D4AF15353A62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1F50738-1835-4204-87F8-273CD59FCB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F50738-1835-4204-87F8-273CD59FCB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F50738-1835-4204-87F8-273CD59FCB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F50738-1835-4204-87F8-273CD59FCB69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC328FF4-0424-4C1C-919E-BB94170B1361}
+	EndGlobalSection
+EndGlobal
